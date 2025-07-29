@@ -1,36 +1,119 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌟 Anadolux - Anadolu'nun Işığı
 
-## Getting Started
+> Modern Türk ## Hızlı Başlangıç
 
-First, run the development server:
+### Yeni Kullanıcılar
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Ana sayfada "Hemen Başla" butonuna tıklayın
+2. Google hesabınızla giriş yapın
+3. Kullanıcı adınızı seçin
+4. İlk odanızı keşfedin ve mesajlaşmaya başlayın
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Deneyimli Kullanıcılar
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Hızlı oda değiştirme
+- Gelişmiş mesaj formatları
+- Özel oda oluşturma
+- Profil yönetimi
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Teknik Özellikler
 
-## Learn More
+- **Framework**: Next.js 15 ile modern web teknolojisi
+- **Güvenlik**: Clerk ile çok katmanlı kimlik doğrulama
+- **Veritabanı**: Supabase ile gerçek zamanlı senkronizasyon
+- **Tasarım**: Tailwind CSS ile responsive arayüz
+- **Hosting**: Vercel ile hızlı ve güvenilir erişim
 
-To learn more about Next.js, take a look at the following resources:
+## Destek ve İletişim
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Proje**: [GitHub Repository](https://github.com/k0d1r/Anadolux)
+- **Demo**: [Canlı Uygulama](https://anadolux.vercel.app)
+- **Email**: [k0d1rtalhaak@gmail.com](mailto:k0d1rtalhaak@gmail.com)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Lisans
 
-## Deploy on Vercel
+Bu proje açık kaynak kodludur ve MIT lisansı altında dağıtılmaktadır.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Anadolux ile Modern Chat Deneyimi
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Anadolux ile modern chat deneyimini yaşayın!mi - Gerçek zamanlı mesajlaşma platformu
+
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://app-k5wo9lk76-k0d1rs-projects.vercel.app)
+[![GitHub](https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/k0d1r/Anadolux)
+
+## 🎯 Proje Hakkında
+
+**Anadolux**, Türkiye'nin modern chat deneyimi için tasarlanmış, güvenli ve kullanıcı dostu bir mesajlaşma platformudur. Slack benzeri özellikleri ile gerçek zamanlı iletişim imkanı sunar.
+
+### ✨ Temel Özellikler
+
+- 💬 **Gerçek Zamanlı Mesajlaşma** - Anlık mesaj gönderimi ve alımı
+- 🏠 **Oda Yönetimi** - Özel konular için odalar oluşturun
+- 🔐 **Güvenli Giriş** - Google, email ve kullanıcı adı ile kolay giriş
+- 📱 **Responsive Tasarım** - Mobil ve masaüstü uyumlu
+- 🎨 **Modern Arayüz** - Anadolu temalı premium tasarım
+- 👥 **Topluluk Odakları** - Farklı ilgi alanları için odalar
+
+## 🚀 Canlı Demo
+
+**[🌐 Anadolux'u Deneyin](https://app-k5wo9lk76-k0d1rs-projects.vercel.app)**
+
+## 🖼️ Ekran Görüntüleri
+
+### Ana Sayfa
+
+- Hoş karşılama ve özellik tanıtımı
+- Kullanıcı girişi ve navigasyon
+- Modern gradient tasarım
+
+### Chat Arayüzü
+
+- Sol panel: Oda listesi ve kullanıcı profili
+- Sağ panel: Mesaj akışı ve gönderim alanı
+- Gerçek zamanlı mesaj güncellemeleri
+
+## 🎨 Tasarım Felsefesi
+
+Anadolux, **"Anadolu'nun Işığı"** mottosu ile Türk kültürüne özgü renk paletleri ve modern tasarım anlayışını birleştiriyor:
+
+- 🟣 **Mor-Mavi Geçişler** - Güven ve teknoloji vurgusu
+- ⭐ **Premium Hissiyat** - Şık ve profesyonel görünüm  
+- 🇹🇷 **Yerel Odak** - Türk kullanıcılarına özel deneyim
+- ✨ **Mikro Animasyonlar** - Akıcı kullanıcı deneyimi
+
+## 👥 Kullanıcı Deneyimi
+
+### Yeni Kullanıcılar
+1. Ana sayfada "Hemen Başla" butonuna tıklayın
+2. Google, email veya kullanıcı adı ile giriş yapın
+3. Mevcut odalara katılın veya yeni oda oluşturun
+4. Mesajlaşmaya başlayın!
+
+### Deneyimli Kullanıcılar
+- Hızlı oda değiştirme
+- Gerçek zamanlı bildirimler
+- Kişiselleştirilebilir profil
+- Mesaj geçmişi
+
+## 🌍 Vizyonumuz
+
+Anadolux, Türkiye'de dijital iletişimi güçlendirmek ve modern chat deneyimini yerelleştirmek amacıyla geliştirilmiştir. Amacımız:
+
+- 🎯 **Kullanıcı Odaklı** - Basit ama güçlü özellikler
+- 🔒 **Güvenlik Öncelikli** - Verileriniz güvende
+- 🚀 **Performans** - Hızlı ve akıcı deneyim
+- 🤝 **Topluluk** - İnsanları bir araya getirmek
+
+## 📞 İletişim
+
+- **GitHub**: [@k0d1r](https://github.com/k0d1r)
+
+---
+
+<div align="center">
+
+**🌟 Anadolux ile modern chat deneyimini yaşayın! 🌟**
+
+Made with ❤️ in Turkey 🇹🇷
+
+</div>
