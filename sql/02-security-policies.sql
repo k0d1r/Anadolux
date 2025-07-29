@@ -1,6 +1,3 @@
--- 2. GÜVENLİK POLİTİKALARI (RLS)
--- Bu komutu 01-create-tables.sql çalıştırdıktan sonra çalıştırın
-
 -- RLS (Row Level Security) etkinleştir
 ALTER TABLE public.rooms ENABLE ROW LEVEL SECURITY;
 ALTER TABLE public.messages ENABLE ROW LEVEL SECURITY;
