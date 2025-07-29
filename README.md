@@ -1,6 +1,4 @@
-# 🌟 Anadolux - Anadolu'nun Işığı
-
-> Modern Türk ## Hızlı Başlangıç
+# 🌟 Anadolux
 
 ### Yeni Kullanıcılar
 
@@ -27,9 +25,7 @@
 ## Destek ve İletişim
 
 - **Proje**: [GitHub Repository](https://github.com/k0d1r/Anadolux)
-- **Demo**: [Canlı Uygulama](https://anadolux.vercel.app)
-- **Email**: [k0d1rtalhaak@gmail.com](mailto:k0d1rtalhaak@gmail.com)
-
+- **Demo**: [Canlı Uygulama](https://app-k5wo9lk76-k0d1rs-projects.vercel.app/)
 ## Lisans
 
 Bu proje açık kaynak kodludur ve MIT lisansı altında dağıtılmaktadır.
@@ -94,26 +90,3 @@ Anadolux, **"Anadolu'nun Işığı"** mottosu ile Türk kültürüne özgü renk
 - Gerçek zamanlı bildirimler
 - Kişiselleştirilebilir profil
 - Mesaj geçmişi
-
-## 🌍 Vizyonumuz
-
-Anadolux, Türkiye'de dijital iletişimi güçlendirmek ve modern chat deneyimini yerelleştirmek amacıyla geliştirilmiştir. Amacımız:
-
-- 🎯 **Kullanıcı Odaklı** - Basit ama güçlü özellikler
-- 🔒 **Güvenlik Öncelikli** - Verileriniz güvende
-- 🚀 **Performans** - Hızlı ve akıcı deneyim
-- 🤝 **Topluluk** - İnsanları bir araya getirmek
-
-## 📞 İletişim
-
-- **GitHub**: [@k0d1r](https://github.com/k0d1r)
-
----
-
-<div align="center">
-
-**🌟 Anadolux ile modern chat deneyimini yaşayın! 🌟**
-
-Made with ❤️ in Turkey 🇹🇷
-
-</div>
