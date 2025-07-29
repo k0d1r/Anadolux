@@ -1,5 +1,3 @@
--- 1. TABLOLARI OLUŞTUR
--- Bu komutu Supabase Dashboard > SQL Editor'da çalıştırın
 
 -- Rooms (Odalar/Kanallar) tablosu
 CREATE TABLE IF NOT EXISTS public.rooms (
