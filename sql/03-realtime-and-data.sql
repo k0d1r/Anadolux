@@ -1,7 +1,3 @@
--- 3. REALTIME VE BAŞLANGIÇ VERİSİ
--- Bu komutu 02-security-policies.sql çalıştırdıktan sonra çalıştırın
-
--- Realtime için tabloları etkinleştir (hata yakalama ile)
 DO $$
 BEGIN
     BEGIN
